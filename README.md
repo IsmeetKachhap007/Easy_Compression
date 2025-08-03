@@ -12,7 +12,7 @@ Figure 1: Easy Compression's landing page, where users can upload their images f
 Figure 2: Example pictures uploaded for compression shown on the left, and Easy Compression's customizable compression and editing features shown on the right
 <br/>
 <br/>
-<div><img src="./docs/demo3.png"></div>
+<div><img src="./docs/demo-3.png"></div>
 Figure 3: Easy Compression's comparison tool, that the user can drag to see the difference between the original and compressed image
 <br/>
 <br/>
